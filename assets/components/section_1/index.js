@@ -1,15 +1,15 @@
 function initializeSection1() {
   const item_left = [
-    "/assets/img/section_1/list_imgae_0/image_0.png",
-    "/assets/img/section_1/list_imgae_0/image_1.png",
-    "/assets/img/section_1/list_imgae_0/image_2.png",
-    "/assets/img/section_1/list_imgae_0/image_3.png",
+    "./assets/img/section_1/list_imgae_0/image_0.png",
+    "./assets/img/section_1/list_imgae_0/image_1.png",
+    "./assets/img/section_1/list_imgae_0/image_2.png",
+    "./assets/img/section_1/list_imgae_0/image_3.png",
   ];
   const item_right = [
-    "/assets/img/section_1/list_imgae_1/image_0.png",
-    "/assets/img/section_1/list_imgae_1/image_1.png",
-    "/assets/img/section_1/list_imgae_1/image_2.png",
-    "/assets/img/section_1/list_imgae_1/image_3.png",
+    "./assets/img/section_1/list_imgae_1/image_0.png",
+    "./assets/img/section_1/list_imgae_1/image_1.png",
+    "./assets/img/section_1/list_imgae_1/image_2.png",
+    "./assets/img/section_1/list_imgae_1/image_3.png",
   ];
   const images = document.querySelectorAll(".list_image .image");
   const iconActive = document.querySelectorAll(".list_image .icon_active");
